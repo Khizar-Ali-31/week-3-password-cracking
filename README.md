@@ -31,13 +31,13 @@ The week focuses on password auditing, password recovery, hash extraction, and u
 ## Module 1: Password Cracking with John the Ripper (JTR) Screenshots
 
 ### 1. John the Ripper hash through Website
-![John Installed](screenshots/Module-1-JTR/john-installed.png)
+![John Installed](screenshot/Module-1-JTR/john-installed.png)
 
 ### 2. Getting password
-![Johnny Installed](screenshots/Module-1-JTR/johnny-installed.png)
+![Johnny Installed](screenshot/Module-1-JTR/johnny-installed.png)
 
 ### 3. After unlocking Password
-![Johnny GUI](screenshots/Module-1-JTR/johnny-gui.png)
+![Johnny GUI](screenshot/Module-1-JTR/johnny-gui.png)
 
 ## Module 2: Password Cracking with Networkwalks Tools
 
@@ -63,13 +63,13 @@ The week focuses on password auditing, password recovery, hash extraction, and u
 ## Module 2: Password Cracking with networkwalks tools "Screenshots"
 
 ### 1. Using Networkwalks Hash Calculator:
-![John Installed](screenshots/Module-2-NWT/john-installed.png)
+![John Installed](screenshot/Module-2-NWT/john-installed.png)
 
 ### 2. Getting password on Password cracker NetworkWalks tool:
-![Johnny Installed](screenshots/Module-2-NWT/johnny-installed.png)
+![Johnny Installed](screenshot/Module-2-NWT/johnny-installed.png)
 
 ### 3. After unlocking Password:
-![Johnny GUI](screenshots/Module-2-NWT/johnny-gui.png)
+![Johnny GUI](screenshot/Module-2-NWT/johnny-gui.png)
 
 ## Conclusion
 
