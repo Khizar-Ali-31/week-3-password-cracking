@@ -34,10 +34,10 @@ The week focuses on password auditing, password recovery, hash extraction, and u
 ![JTR HASH](screenshots/Module-1-JTRjohn-installed.png)
 
 ### 2. Getting password
-![JTR PASSWORD](screenshots/Module-1-JTR/johnny-installed.png)
+![JTR PASSWORD](screenshots/Module-1-JTRjohnny-installed.png)
 
 ### 3. After unlocking Password
-![FINAL RESULT](screenshots/Module-1-JTR/johnny-gui.png)
+![FINAL RESULT](screenshots/Module-1-JTRjohnny-gui.png)
 
 ## Module 2: Password Cracking with Networkwalks Tools
 
