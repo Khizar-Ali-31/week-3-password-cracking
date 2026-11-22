@@ -31,7 +31,7 @@ The week focuses on password auditing, password recovery, hash extraction, and u
 ## Module 1: Password Cracking with John the Ripper (JTR) Screenshots
 
 ### 1. John the Ripper hash through Website
-![JTR HASH](screenshots/Module-1-JTR/john-installed.png)
+![JTR HASH](screenshots/Module-1-JTRjohn-installed.png)
 
 ### 2. Getting password
 ![JTR PASSWORD](screenshots/Module-1-JTR/johnny-installed.png)
