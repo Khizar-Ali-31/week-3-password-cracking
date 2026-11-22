@@ -63,13 +63,13 @@ The week focuses on password auditing, password recovery, hash extraction, and u
 ## Module 2: Password Cracking with networkwalks tools "Screenshots"
 
 ### 1. Using Networkwalks Hash Calculator:
-![HASH CALCULATOR](screenshots/Module-2-NWT/john-installed.png)
+![HASH CALCULATOR](screenshots/Module-2-NWTjohn-installed.png)
 
 ### 2. Getting password on Password cracker NetworkWalks tool:
-![PASSWORD CRACK](screenshots/Module-2-NWT/johnny-installed.png)
+![PASSWORD CRACK](screenshots/Module-2-NWTjohnny-installed.png)
 
 ### 3. After unlocking Password:
-![FINAL RESULT!](screenshots/Module-2-NWT/johnny-gui.png)
+![FINAL RESULT!](screenshots/Module-2-NWTjohnny-gui.png)
 
 ## Conclusion
 
